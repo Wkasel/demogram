@@ -5,6 +5,7 @@
 
 spade.require("sproutcore");
 spade.require("sproutcore-touch");
+spade.require("sproutcore-datastore");
 
 // Declare application namespace
 var App = SC.Application.create({
